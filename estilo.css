@@ -1,8 +1,10 @@
 h1 {color:red;
 }
 
-h1 {font-size:500%
+h1 {font-size:500%;
 }
 
 #imagem-um{width: 50%;
 }
+
+body {background-image:  fundo.jpg;}
